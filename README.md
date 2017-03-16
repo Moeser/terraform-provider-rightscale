@@ -3,7 +3,7 @@ RightScale Terraform Provider
 
 
 
-* Note this is still very alpha quality.
+* Note this is still very alpha quality.  (and not working)
 
 
 How to build and run:
